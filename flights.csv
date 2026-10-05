@@ -1,0 +1,19 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+FL-2520,Zephyr Lines,Budapest,Hungary,Lviv,Ukraine,2026-09-13,313,,delay=55;by=AirWatch
+FL-9163,Falcon Jet,Milan,Italy,Lviv,Ukraine,2026-07-21,238,54.00,
+FL-1494,Blue Meridian,Berlin,Germany,Madrid,Spain,2026-08-14,204,110.50,
+ fl-9520 ,Falcon Jet ,MUNICH,Germany,Tallinn,Estonia,03.03.2026,97,,delay=55;by=FlightLog
+FL-2404,Falcon Jet,Lisbon,Portugal,Berlin,Germany,2026-08-16,242,204.00,delay=15;by=PassengerReport
+FL-9723,Zephyr Lines,Vienna,Austria,Lyon,France,2026-03-08,224,167.50,
+FL-7819,Zephyr Lines,Rome,Italy,Lviv,Ukraine,26.04.2026,261,,delay=90;by=AirWatch
+FL-5843,Lumen Air,Munich,Germany,Odesa,Ukraine,2026-03-18,95,179.99,
+FL-6025,AeroVista,Milan,Italy,Rome,Italy,12.07.2026,91,153.00,delay=40;by=AirWatch
+FL-9077,SkyNord,Paris,France,Prague,Czechia,2026-07-05,84,138.00,
+FL-3816,Falcon Jet,Oslo,Norway,Munich,Germany,2026-08-12,216,186.50,
+FL-7056,AeroVista,Vienna,Austria,Vilnius,Lithuania,2026-05-25,251,78.00,
+ fl-8712 ,TransCarpa ,MADRID,Spain,Lyon,France,11.03.2026,273,76.99,
+FL-9520,Falcon Jet,Munich,Germany,Tallinn,Estonia,03.03.2026,97,,delay=55;by=FlightLog
+FL-3280,AeroVista,Prague,Czechia,Vilnius,Lithuania,2026-08-27,130,209.00,
+FL-4906,SkyNord,Vilnius,Lithuania,Vienna,Austria,14.06.2026,231,196.99,delay=25;by=AirWatch
+FL-8712,TransCarpa,Madrid,Spain,Lyon,France,11.03.2026,273,76.99,
+FL-7909,Orbit Airways,Berlin,Germany,Lviv,Ukraine,25.06.2026,87,248.00,
